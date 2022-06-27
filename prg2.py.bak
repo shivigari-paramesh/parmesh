@@ -1,0 +1,14 @@
+'''a=int(input('a number enter'))
+b=int(input('b number enter'))
+c=a+b
+print(c)'''
+sum=10
+    def calculate():
+        sum=30
+        sum=sum+20
+        current sum=200
+        total sum=sum+current sum
+        print(total sum)
+    calculate();
+    print(sum)
+    
